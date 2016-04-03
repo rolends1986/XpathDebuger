@@ -1,0 +1,11 @@
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/obj/x86/Debug/XPathDebuger.gtk-gui.gui.stetic
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/bin/Debug/XPathDebuger.exe.mdb
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/bin/Debug/XPathDebuger.exe
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/obj/x86/Debug/XPathDebuger.exe
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/obj/x86/Debug/XPathDebuger.exe.mdb
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/bin/Debug/HtmlAgilityPack.dll
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/bin/Debug/XpathDebuger.exe.mdb
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/bin/Debug/XpathDebuger.exe
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/obj/x86/Debug/XpathDebuger.exe
+/Users/qinjilei/Projects/ClearProject/XPathDebuger/obj/x86/Debug/XpathDebuger.exe.mdb
